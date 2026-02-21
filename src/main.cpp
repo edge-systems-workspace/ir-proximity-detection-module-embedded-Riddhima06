@@ -12,8 +12,7 @@
 
 int irPin = 2;
 
- // TODO 2:
- // Create variable to store sensor state
+int irState;
 
 void setup() {
 
