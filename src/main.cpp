@@ -33,6 +33,5 @@ void loop() {
         Serial.println("No Obstacle");
     }
 
-    // TODO 8:
-    // Add small delay (200–500ms)
+    delay(300);
 }
